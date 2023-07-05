@@ -1,6 +1,6 @@
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm tinygeeker~ 
+  Hi there! I'm pizicaiman~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
@@ -41,3 +41,6 @@
    style="pointer-events:none;" 
    src="https://github-readme-stats.vercel.app/api?username=cxyliangzai&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" 
 />
+
+![](https://activity-graph.herokuapp.com/graph?username=pizicaiman&theme=github)
+
