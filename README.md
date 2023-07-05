@@ -4,7 +4,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-<a href="https://github.com/tinygeeker">
+<a href="https://github.com/pizicaiman">
   <div align="right" >
     <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="极客飞兔" />
   </div>
@@ -12,8 +12,8 @@
 
 <!-- ======================================= -->
 
-* 😄Read more about my [CSDN](https://tinygeeker.blog.csdn.net/)
-* 👯Follow me on [Twitter](https://twitter.com/tinygeeker), [掘金](https://juejin.cn/user/2858385963749223) or [知乎](https://www.zhihu.com/people/tinygeeker)
+* 😄Read more about my [CSDN](https://pizicaiman.blog.csdn.net/)
+* 👯Follow me on [Twitter](https://twitter.com/pizicaiman), [掘金](https://juejin.cn/user/2858385963749223) or [知乎](https://www.zhihu.com/people/tinygeeker)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
@@ -43,4 +43,4 @@
 />
 
 ![](https://activity-graph.herokuapp.com/graph?username=pizicaiman&theme=github)
-
+![](https://activity-graph.herokuapp.com/graph?username=pizicaiman&theme=github)
