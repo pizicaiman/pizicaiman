@@ -12,7 +12,7 @@
 
 <!-- ======================================= -->
 
-* 😄Read more about my [CSDN]([https://pizicaiman.blog.csdn.net/](https://caijianfeng.blog.csdn.net/))
+* 😄Read more about my [CSDN](https://caijianfeng.blog.csdn.net/)
 * 👯Follow me on [Twitter](https://twitter.com/pizicaiman), [掘金](https://juejin.cn/user/2858385963749223) or [知乎](https://www.zhihu.com/people/tinygeeker)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
