@@ -51,21 +51,12 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pizicaiman&show_icons=true&theme=dark)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pizicaiman&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pizicaiman&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pizicaiman&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pizicaiman&theme=dark) -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pizicaiman&theme=github)
 
 </div>
-
-
-## 技术能力概览
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pizicaiman&show_icons=true)
-
-## 技术栈分布  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizicaiman&layout=donut)
