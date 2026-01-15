@@ -1,3 +1,15 @@
+### 你好 👋
+
+![Visitor Count](https://profile-counter.glitch.me/Pizicaiman/count.svg)
+
+😄很高兴你点开了我的主页
+
+- 🔭 我是一个SRE&DevOps工程师
+- 🌱 擅长Kubernetes Istio Knative
+- 👯 维护了两个公众号：AI智能学社
+- 📫 你可以通过微信搜**Pozicaiman**联系我
+- ⚡ 希望我写下的东西能帮助到你
+
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there! I'm pizicaiman~ 
@@ -9,6 +21,15 @@
     <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="极客飞兔" />
   </div>
 </a>
+
+<div>
+  <!-- wakatime -->
+  <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pizicaiman)](https://github.com/Christmas/github-readme-stats)
+
+![Pizicaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pizicaiman&show_icons=true&theme=tokyonight)
 
 <!-- ======================================= -->
 
