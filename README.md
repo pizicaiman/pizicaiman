@@ -6,7 +6,7 @@
 
 - 🔭 我是一个SRE&DevOps工程师
 - 🌱 擅长Kubernetes Istio Knative
-- 👯 维护了两个公众号：AI智能学社
+- 👯 维护公众号：AI智能学社
 - 📫 你可以通过微信搜**Pozicaiman**联系我
 - ⚡ 希望我写下的东西能帮助到你
 
