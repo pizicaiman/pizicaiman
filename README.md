@@ -51,12 +51,12 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pizicaiman&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=pizicaiman&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pizicaiman&layout=compact&theme=tokyonight&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizicaiman&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=pizicaiman&theme=tokyonight&hide_border=false)
+<img src="https://streak-stats.demolab.com/?user=pizicaiman&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pizicaiman&theme=github&hide_border=false&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pizicaiman&theme=github&hide_border=false&area=true" alt="GitHub Activity Graph" />
 
 </div>
