@@ -1,6 +1,6 @@
 ### 你好 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Pizicaiman/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Pizicaiman/count.svg) -->
 
 😄很高兴你点开了我的主页
 
@@ -27,9 +27,9 @@
   <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pizicaiman)](https://github.com/Christmas/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pizicaiman)](https://github.com/Christmas/github-readme-stats) -->
 
-![Pizicaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pizicaiman&show_icons=true&theme=tokyonight)
+<!-- ![Pizicaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pizicaiman&show_icons=true&theme=tokyonight) -->
 
 <!-- ======================================= -->
 
@@ -48,7 +48,7 @@
 
 ##### GitHub status
 
-![code-status](https://github-readme-activity-graph.cyclic.app/graph?username=pizicaiman&theme=github)
+<!-- ![code-status](https://github-readme-activity-graph.cyclic.app/graph?username=pizicaiman&theme=github) -->
 
 <!--
 
