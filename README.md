@@ -49,20 +49,14 @@
 
 ##### GitHub status
 
-<!-- ![code-status](https://github-readme-activity-graph.cyclic.app/graph?username=pizicaiman&theme=github) -->
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pizicaiman&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true)
 
-<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pizicaiman&layout=compact&theme=tokyonight&langs_count=8)
 
-![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=pizicaiman&theme=tokyonight&hide_border=false)
 
--->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pizicaiman&theme=github&hide_border=false&area=true)
 
-<img 
-   align="right" 
-   style="pointer-events:none;" 
-   src="https://github-readme-stats.vercel.app/api?username=pizicaiman&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b&hide_title=true&hide_border=true" 
-/>
-
-![](https://activity-graph.herokuapp.com/graph?username=pizicaiman&theme=github)
-![](https://activity-graph.herokuapp.com/graph?username=pizicaiman&theme=github)
+</div>
