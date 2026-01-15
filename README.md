@@ -27,7 +27,7 @@
 
 ##### GitHub status
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=pizicaiman&theme=github)
+![code-status](https://github-readme-activity-graph.cyclic.app/graph?username=pizicaiman&theme=github)
 
 <!--
 
