@@ -20,6 +20,16 @@
 | 08 | Linux 性能分析基础 | 性能分析工具分层、CPU/IO/网络定位、load average 含义 | [08-linux-essentials.md](08-linux-essentials.md) |
 | 09 | 中间件 Kafka/Redis/Nacos | Kafka 分区/副本/ISR、消息积压、Redis 持久化、Nacos 双协议 | [09-middleware-kafka.md](09-middleware-kafka.md) |
 | 10 | 场景设计：高可用与多活 | 高可用四要素、限流算法与分层、异地多活单元化、容量评估 | [10-scenario-design.md](10-scenario-design.md) |
+| 11 | 中间件 RabbitMQ | 四种交换器、可靠性三道防线、死信/延迟队列、Quorum Queue | [middleware-rabbitmq.md](middleware-rabbitmq.md) |
+| 12 | 中间件 Nacos | 双协议(Raft/Distro)、集群部署、服务注册发现、健康检查 | [middleware-nacos.md](middleware-nacos.md) |
+| 13 | 中间件 Redis | 缓存穿透/击穿/雪崩、分布式锁与 Redisson 看门狗、Stream 队列 | [middleware-redis.md](middleware-redis.md) |
+| 14 | 中间件 Logstash | input-filter-output 流水线、Grok 性能优化、PQ/DLQ | [middleware-logstash.md](middleware-logstash.md) |
+| 15 | 中间件 Filebeat | harvester/spooler 协作、registry 与 at-least-once、选型组合 | [middleware-filebeat.md](middleware-filebeat.md) |
+| 16 | 数据库 Elasticsearch | 倒排索引原理、分片/副本/路由、refresh/flush/merge | [dms-elasticsearch.md](dms-elasticsearch.md) |
+| 17 | 数据库 MongoDB | WiredTiger 引擎、副本集/分片集群、分片键选择 | [dms-mongo.md](dms-mongo.md) |
+| 18 | 数据库 MySQL | InnoDB B+树、MVCC/Next-Key Lock、主从复制与延迟优化 | [dms-mysql.md](dms-mysql.md) |
+| 19 | 数据库 PostgreSQL | PG vs MySQL、MVCC 多版本元组、B-tree/GIN/GIST/BRIN 索引 | [dms-postgresql.md](dms-postgresql.md) |
+| 20 | 数据库 Redis | 单线程模型、RDB/AOF 持久化、主从/哨兵/Cluster 集群 | [dms-redis.md](dms-redis.md) |
 
 ---
 
